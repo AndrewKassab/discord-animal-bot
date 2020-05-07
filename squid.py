@@ -14,7 +14,7 @@ async def on_ready():
 @client.event
 async def on_message(message):
     if BOT_ID in message.content:
-        await message.channel.send(':duck: Quack :duck:')
+        await message.channel.send(':squid: Bloop :squid:')
     
 
 client.run(TOKEN)
