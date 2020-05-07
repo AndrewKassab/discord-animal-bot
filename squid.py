@@ -2,8 +2,8 @@ import os
 
 import discord
 
-TOKEN = os.getenv('DUCK_TOKEN')
-BOT_ID = os.getenv('DUCK_CLIENT_ID')
+TOKEN = os.getenv('SQUID_TOKEN')
+BOT_ID = os.getenv('SQUID_CLIENT_ID')
 
 client = discord.Client()
 
