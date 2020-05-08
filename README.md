@@ -8,7 +8,7 @@
 - **[DUCK](https://discord.com/api/oauth2/authorize?client_id=698323179739021353&permissions=0&scope=bot)**  
 - **[SQUID](https://discord.com/api/oauth2/authorize?client_id=707793277491085353&permissions=0&scope=bot)**  
 
-# SETUP To create your own animal:
+# Create your own animal:
 1. Just fill in the bot's phrase to respond to in the 'phrase' field of bot.py.
 2. Make a bot on [Discord for Developers](https://discord.com/developers/applications)
 3. Set ANIMAL_TOKEN and ANIMAL_CLIENT_ID in your environment! 
