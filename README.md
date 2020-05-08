@@ -11,9 +11,10 @@
 # Create your own animal:
 1. Just fill in the bot's phrase to respond to in the 'phrase' field of bot.py.
 2. Make a bot on [Discord for Developers](https://discord.com/developers/applications)
-3. Set ANIMAL_TOKEN and ANIMAL_CLIENT_ID in your environment! 
-4. Go ahead and run the script `python3 bot.py`
-5. Make a PR of your Animal to share!
+3. Set ANIMAL_TOKEN and ANIMAL_CLIENT_ID in your environment!
+4. Add the bot to your server
+5. Go ahead and run the script `python3 bot.py`
+6. Make a PR of your Animal to share!
 
 # Future Implementation
 
