@@ -1,9 +1,9 @@
 import os
 import discord
 
-TOKEN = os.getenv('ANIMAL_TOKEN')
-BOT_ID = os.getenv('ANIMAL_CLIENT_ID')
-phrase = ''
+TOKEN = os.getenv('SQUID_TOKEN')
+BOT_ID = os.getenv('SQUID_CLIENT_ID')
+phrase = ':squid: Bloop :squid:'
 
 client = discord.Client()
 
